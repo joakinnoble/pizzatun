@@ -1332,7 +1332,8 @@ span.po-bg {
 
 .img-chef-img {    
     height: 464px;
-    width: 464px;
+    margin-right: 0px;
+    width: 386px;
     display: block;
     margin: 0 auto;
     float: none;
