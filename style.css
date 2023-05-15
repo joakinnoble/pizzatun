@@ -498,13 +498,14 @@ label {
     position: absolute;
     width: 53%;
     height: 65%;
-    background: #ffbe00;
+    background: #ffbe00; 
     left: 0;
     bottom: 0;
     border-radius: 0 80px 80px 0
 }
 
 .coock-i {
+    bottom: -9em;
     left: -2em;
     position: relative;
     z-index: 9
