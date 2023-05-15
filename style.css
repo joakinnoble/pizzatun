@@ -510,6 +510,14 @@ label {
     position: relative;
     z-index: 9
 }
+@media only screen and (max-width: 767px)
+.coock-i {
+    button:-7em;
+    left: -8%;
+    position: relative;
+    z-index: 9;
+    width: 100%;
+}
 
 .po-cer {
     position: absolute;
