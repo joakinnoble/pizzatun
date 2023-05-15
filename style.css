@@ -510,15 +510,17 @@ label {
     position: relative;
     z-index: 9
 }
-@media only screen and (max-width: 767px)
-.coock-i {
-    button:-7em;
-    left: -8%;
-    position: relative;
-    z-index: 9;
-    width: 100%;
-}
 
+
+@media only screen and (max-width: 767px) {
+    /* Estilos para pantallas con ancho máximo de 767px */
+    .coock-i {
+       bottom: -7em;
+        left: -8%;
+        position: relative;
+        z-index: 9;
+        width: 100%;
+    }
 .po-cer {
     position: absolute;
     right: 2%;
